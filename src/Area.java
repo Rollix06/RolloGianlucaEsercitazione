@@ -1,4 +1,4 @@
-
+//versione2
 /**
  * <u>classe trapezio</u>
  * <b>@author RolloGianluca</b>
